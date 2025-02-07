@@ -12,4 +12,7 @@ modificacion de elpo (la real)
 =======
 Rama modificada por elpo
 >>>>>>> elpo FUNCIONA?
+<<<<<<< HEAD
 
+=======
+>>>>>>> rupa
