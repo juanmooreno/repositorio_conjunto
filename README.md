@@ -1,3 +1,4 @@
 # repositorio_conjunto
-Repositorio conjunto con el rupa
-Este es el cambio del rupa 
+Repositorio conjunto con el rupa <<<<<<< HEAD
+
+modificacion de elpo (la real)
