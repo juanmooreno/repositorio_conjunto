@@ -1,4 +1,5 @@
 # repositorio_conjunto
 Repositorio conjunto con el rupa
+<<<<<<< HEAD
 
-modificacion de elpo 
+modificacion de elpo (la real)
